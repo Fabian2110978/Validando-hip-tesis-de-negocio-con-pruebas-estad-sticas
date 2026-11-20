@@ -17,4 +17,4 @@ Preguntas del negocio
 ¿Qué versión de la página (A o B) genera mayor tasa de conversión?
 ¿La conversión depende de la fuente de tráfico?
 ¿El tipo de usuario (nuevo o recurrente) influye en la conversión?
-¿Qué hallazgos o insights permiten optimizar la estrategia de marketing y el diseño de la página de inicio (landing page)?
+Link del proyecto: https://github.com/Fabian2110978/Validando-hip-tesis-de-negocio-con-pruebas-estad-sticas/blob/main/S9%20Version_Student_Proyecto_Landing_Experiment.ipynb
